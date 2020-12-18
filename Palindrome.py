@@ -6,7 +6,6 @@ def check_palindrome(Num):
     """
     Checks for Palindrome
     :param Num: integer, Number
-    :return:
     """
     Sum = 0
     Number = Num
