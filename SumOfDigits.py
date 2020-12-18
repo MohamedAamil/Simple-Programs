@@ -5,7 +5,6 @@ def get_sumofDigits(Num):
     """
     Calculates the Sum of Digits
     :param Num: integer , Number
-    :return:
     """
 
     Sum = 0
